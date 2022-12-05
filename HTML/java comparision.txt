@@ -1,0 +1,6 @@
+The conditional operator first evaluates the expression for a true and false values and then executes one of the two given statements dependent on the result on evaluation. 
+
+
+
+
+

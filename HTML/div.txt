@@ -1,0 +1,6 @@
+div---creating section
+div tag is a empty container that is used to define division or section
+<div>...</div>
+
+
+

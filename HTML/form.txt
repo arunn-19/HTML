@@ -1,0 +1,5 @@
+Form:
+1.) Label 2.)Input
+
+Label=element is used to define a label for several form and useful for screen reader user, it also help user who have difficulty to click on a  very small region bcz when the user clicks 
+the text within the element, it toggles the radio/checkbox.

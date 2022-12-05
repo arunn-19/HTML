@@ -1,0 +1,16 @@
+CSS:it is the language that we use to style a web page.
+save extension='.css'
+(selector and detector)
+         SELECTOR { DECLARATION 
+                property:value;
+              Example-colour:red;
+                   }
+the selector points to the html elements you want to style
+the delclaration block contains one and more declaration separated by ';'.Each declaration includes a css property name and value, separated by a':'.
+Declaration block is surrounded by '{}'
+There are 3 ways to insert css: internal,inline,external
+1.Inline:inline style may be used to apply a unique style for a single element. To use inline style, at the style attribute to a element. the style attribute can contain any css property.
+  Example; <p style="    ">this is a para</p>
+                     "colour:red; text-align:center;"
+2.Internal:An internal style sheet can be used if one single html page has a unique style. It is defined inside the style element,inside the head section.
+3.External:we dont use style in this.
